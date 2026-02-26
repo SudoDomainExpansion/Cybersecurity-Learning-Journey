@@ -2,7 +2,7 @@
 
 ---
 
-## 📖 Simple Overview
+## 📖 Overview
 
 The Qualys Enterprise TruRisk™ Platform is a centralized cybersecurity platform that helps organizations see, measure, and reduce cyber risk effectively.
 
