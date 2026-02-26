@@ -1,63 +1,48 @@
-# QUALYS TRURISK
+# Qualys Enterprise TruRisk™ Platform Overview
 
 ---
 
-## 📖 Overview
+## 📖 Simple Overview
 
-Qualys TruRisk is a risk-based vulnerability prioritization methodology that helps organizations focus on the most critical security risks based on real-world impact.
+The Qualys Enterprise TruRisk™ Platform is a centralized cybersecurity platform that helps organizations see, measure, and reduce cyber risk effectively.
 
----
-
-## 🎯 Why TruRisk Is Important
-
-- Reduces vulnerability overload
-- Prioritizes based on business impact
-- Aligns security with organizational risk
-- Improves remediation efficiency
+It provides a unified view of the entire security landscape so teams can manage risks from a single platform.
 
 ---
 
-## 🧠 Core Concept
+## 🎯 What the Platform Does
 
-Traditional vulnerability management focuses only on CVSS scores.
-
-TruRisk goes beyond CVSS by considering:
-
-- Asset criticality
-- Threat intelligence
-- Exploitability
-- Business context
+- Provides complete visibility of cybersecurity risks  
+- Measures risk accurately using multiple factors  
+- Helps teams communicate risk clearly  
+- Supports informed decision-making for remediation  
+- Follows a structured risk management approach  
 
 ---
 
-## 🏗 How TruRisk Works
+## 🏗 Five Foundational Pillars
 
-1. Collect vulnerability data
-2. Correlate with asset importance
-3. Apply threat intelligence
-4. Generate risk-based score
-5. Prioritize remediation
+The platform is built on five core pillars that create a structured method for managing cyber risk.
+
+This ensures security operations are organized, measurable, and aligned with business priorities.
 
 ---
 
-## 🛠 Real-World Use Case
+## 🔗 High-Level Architecture
 
-In enterprise environments:
+The TruRisk platform architecture allows:
 
-- Thousands of vulnerabilities exist
-- Not all are equally dangerous
-- TruRisk helps focus on high-impact risks first
-
----
-
-## ❓ Interview Questions
-
-1. What is the difference between CVSS and TruRisk?
-2. Why is risk-based prioritization important?
-3. How does business context influence risk scoring?
+- Seamless integration with other security tools  
+- Scalability as the organization grows  
+- Visibility across cloud, on-premises, and hybrid environments  
 
 ---
 
-## 📝 Summary
+## 📝 Easy Summary
 
-TruRisk enables organizations to move from vulnerability counting to intelligent risk-based decision-making.
+TruRisk is a centralized risk management platform that helps organizations:
+
+- See risks clearly  
+- Measure them accurately  
+- Communicate them effectively  
+- Take smart action to reduce them  
