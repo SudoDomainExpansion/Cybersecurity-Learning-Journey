@@ -2,47 +2,45 @@
 
 ---
 
-## 📖 Overview
+## 📖 What Is It?
 
-The Qualys Enterprise TruRisk™ Platform is a centralized cybersecurity platform that helps organizations see, measure, and reduce cyber risk effectively.
+Qualys TruRisk™ is a platform that helps companies understand and reduce cybersecurity risks.
 
-It provides a unified view of the entire security landscape so teams can manage risks from a single platform.
-
----
-
-## 🎯 What the Platform Does
-
-- Provides complete visibility of cybersecurity risks  
-- Measures risk accurately using multiple factors  
-- Helps teams communicate risk clearly  
-- Supports informed decision-making for remediation  
-- Follows a structured risk management approach  
+It works like a central control room where all security problems can be seen in one place.
 
 ---
 
-## 🏗 Five Foundational Pillars
+## 🧭 What Does It Do?
 
-The platform is built on five core pillars that create a structured method for managing cyber risk.
-
-This ensures security operations are organized, measurable, and aligned with business priorities.
-
----
-
-## 🔗 High-Level Architecture
-
-The TruRisk platform architecture allows:
-
-- Seamless integration with other security tools  
-- Scalability as the organization grows  
-- Visibility across cloud, on-premises, and hybrid environments  
+- Shows all security risks together
+- Helps identify which risks are serious
+- Makes it easier for teams to discuss problems
+- Helps fix the most important risks first
+- Keeps everything organized and structured
 
 ---
 
-## 📝 Easy Summary
+## 🏗 How It Is Built
 
-TruRisk is a centralized risk management platform that helps organizations:
+The platform is built on five main pillars that help manage cyber risk in a proper and organized way.
 
-- See risks clearly  
-- Measure them accurately  
-- Communicate them effectively  
-- Take smart action to reduce them  
+This ensures that security work is not random but systematic.
+
+---
+
+## 🔗 Why It Is Powerful
+
+- Connects easily with other tools
+- Grows as the company grows
+- Provides full visibility across systems
+
+---
+
+## 📝 Simple Summary
+
+Qualys TruRisk™ helps companies:
+
+- See security problems
+- Understand their impact
+- Fix the important ones first
+- Stay protected from cyber threats
